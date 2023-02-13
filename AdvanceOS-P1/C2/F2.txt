@@ -1,0 +1,1 @@
+This file was created in F2.txt and the messages will be sent to p3 , to create a file about 300 bytes I am writing random stuff in F2. Still writing content in F1 because , this is still not 300, This is just random gibberish , better than creating random chars for 300 bytes in F2.Almosttherefor f2
